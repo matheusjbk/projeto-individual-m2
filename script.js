@@ -7,7 +7,6 @@ let codificar=document.querySelector('#encode');
 let decodificar=document.querySelector('#decode');
 let submit=document.querySelector('#sbmt');
 let output=document.querySelector('#output');
-let copy=document.querySelector('#copy');
 
 //Função para escolher entre Cifra de César ou Base64
 formulario.addEventListener('submit', (event)=>{
